@@ -2465,6 +2465,9 @@ table td {
   border: 1px solid var(--light-grey);
   vertical-align: middle;
 }
+[data-theme='dark'] *::selection {
+  background: #5d88bb;
+}
 *::selection {
   background: #0651a8;
   color: #f7f7f7;
@@ -5000,6 +5003,9 @@ h1.page-title + .tag-cloud-list {
 }
 #nav .site-page:not(.child):hover:after {
   width: 100%;
+}
+[data-theme='dark'] #nav .site-page:not(.child):after {
+  background-color: #8eaccf;
 }
 .loading-bg {
   display: -webkit-box;
