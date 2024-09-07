@@ -1,1 +1,1 @@
-Updated source files (theme included) of archived site casecori.top.
+Updated source files (whose theme included) of archived site casecori.top.
