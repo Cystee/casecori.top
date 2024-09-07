@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CasecoRI</title>
+  <icon>https://www.gravatar.com/avatar/b501555fe4053c49ccea5f1be098f280</icon>
+  
+  <link href="http://localhost/atom.xml" rel="self"/>
+  
+  <link href="http://localhost/"/>
+  <updated>2024-09-07T08:19:14.965Z</updated>
+  <id>http://localhost/</id>
+  
+  <author>
+    <name>CasecoRI</name>
+    <email>carick@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>01</title>
+    <link href="http://localhost/82b7.html"/>
+    <id>http://localhost/82b7.html</id>
+    <published>2024-09-07T07:25:45.000Z</published>
+    <updated>2024-09-07T08:19:14.965Z</updated>
+    
+    <content type="html"><![CDATA[<p>_ May used freely.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;_ May used freely.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="默认" scheme="http://localhost/categories/%E9%BB%98%E8%AE%A4/"/>
+    
+    
+    <category term="默认" scheme="http://localhost/tags/%E9%BB%98%E8%AE%A4/"/>
+    
+  </entry>
+  
+</feed>
